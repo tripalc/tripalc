@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Alex Curtis (tripalc online), I usually code things for fun, or to solve a problem i'm having with another service.
+
+- 🔭 I’m currently working on [tripalc/invex](https://github.com/tripalc/invex) [tripalc/server-dev-playbook](https://github.com/tripalc/server-dev-playbook)
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: alexcurtis_cc@hotmail.com
+- ⚡ Fun fact: Ummmmm... I dont have many fun facts...
 
 <!--
 **tripalc/tripalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
