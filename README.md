@@ -2,7 +2,7 @@
 I'm Alex Curtis (tripalc online), I usually code things for fun, or to solve a problem i'm having with another service.
 
 - 🔭 I’m currently working on [tripalc/invex](https://github.com/tripalc/invex) and [tripalc/server-dev-playbook](https://github.com/tripalc/server-dev-playbook)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python and Ansible
 - 📫 How to reach me: alexcurtis_cc@hotmail.com
 - ⚡ Fun fact: Ummmmm... I dont have many fun facts...
 
